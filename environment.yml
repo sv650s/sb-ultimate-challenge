@@ -16,6 +16,7 @@ dependencies:
   - python>=3.7.0
   - pyyaml
   - scikit-learn
+  - statsmodels
   - scipy
   - seaborn
   - virtualenv
