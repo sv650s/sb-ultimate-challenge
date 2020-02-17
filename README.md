@@ -9,7 +9,7 @@ Please see the following notebook for login EDA
 
 # Part 2 - Experiment and metrics design
 
-[2-experiement-and-metrics.ipynb](2-experiement-and-metrics.ipynb)
+[2-experiment-and-metrics.ipynb](2-experiment-and-metrics.ipynb)
 
 
 
