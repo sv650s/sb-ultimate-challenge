@@ -19,7 +19,7 @@ Please see the following notebooks for detailed work:
 
 * [3.1-ultimate-eda.ipynb](3.1-ultimate-eda.ipynb)
 * [3.2-ultimate-feature-engineering.ipynb](3.2-ultimate-feature-engineering.ipynb)
-* [3.3-model_training-statsmodel.ipynb](3.3-model_training-statsmodel.ipynb)
+* [3.3-model_training-lr.ipynb](3.3-model_training-lr.ipynb)
 
 For predictive modeling, I used Logistic Regression to predict whether a user is active or not.
 
